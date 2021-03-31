@@ -1,0 +1,23 @@
+---
+name: module-1
+break: true
+indent: 4
+---
+
+writing:
+    progress.md:
+        mdl
+        ConfirmFileExists
+        CountFileWords --count 500
+        CountFileParagraphs --count 3
+        CountMarkdownTags --tag "heading" --count 4
+        MatchFileFragment --fragment "TODO" --count 0 --exact
+        
+writing:
+    FTR.md:
+        mdl
+        ConfirmFileExists
+        CountFileWords --count 1000
+        CountFileParagraphs --count 5
+        CountMarkdownTags --tag "heading" --count 5
+        MatchFileFragment --fragment "TODO" --count 0 --exact
