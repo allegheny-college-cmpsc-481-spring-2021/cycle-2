@@ -40,8 +40,8 @@ Unless otherwise noted, all deliverables are due by the end of class time (2:30 
 
 | Date            | Deliverable           | Summary                                                     |
 |-----------------|-----------------------|-------------------------------------------------------------|
-| 31 March 2021   | Progress Report       | An interim report detailing progress and challenges         | 
-| 9 April 2021    | Final Technical Report| A summary of your Cycle's work, sucesses, areas to improve  |
+| 9 April 2021    | Progress Report       | An interim report detailing progress and challenges         | 
+| 16 April 2021   | Final Technical Report| A summary of your Cycle's work, sucesses, areas to improve  |
 | 16 April 2021   | End of Cycle Survey   | A survey of individual comments, to be shared with the group|
 
 ### Progress report (`progress.md`)
